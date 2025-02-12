@@ -5,9 +5,9 @@ Add here global page variables to use throughout your website.
 author = "Dibyendu Ghosh"
 mintoclevel = 2
 
-@def prepath = "Dibyendu"
+prepath = "Dibyendu"
 
-@def site_url = "https://dibyendu-web.github.io/Dibyendu/"
+site_url = "https://dibyendu-web.github.io/Dibyendu/"
 
 # uncomment and adjust the following line if the expected base URL of your website is something like [www.thebase.com/yourproject/]
 # please do read the docs on deployment to avoid common issues: https://franklinjl.org/workflow/deploy/#deploying_your_website
