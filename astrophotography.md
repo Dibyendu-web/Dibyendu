@@ -3,5 +3,9 @@ title = "Dibyendu's Astrophotography"
 +++
 
 # Contents
-\toc
+\tableofcontents
+
+# My First Astrophotograph!!
+
+![Moon!](/assets/Moon 04052025.jpg)
 
