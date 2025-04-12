@@ -1,13 +1,15 @@
 @def title = "Dibyendu Ghosh"
 @def tags = ["syntax", "code", "math"]
 
+# Hello!
+
+I'm Dibyendu Ghosh, a physics enthusiast passionate about General Relativity, scientific computing, and astrophotography. I hold an MSc in Physics and aspire to pursue a PhD in General Relativity.
+
+
 # Contents
 
 \tableofcontents <!-- you can use \toc as well -->
 
-# About Me
-
-Hello! I'm Dibyendu Ghosh, a physics enthusiast passionate about General Relativity, scientific computing, and astrophotography. I hold an MSc in Physics and aspire to pursue a PhD in General Relativity.
 
 ## Research Interests
 
